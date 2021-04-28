@@ -3,6 +3,7 @@ botocore>=1.12.249  # from collection amazon.aws
 boto3>=1.9.249  # from collection amazon.aws
 pytz  # from collection awx.awx
 python-dateutil>=2.7.0  # from collection awx.awx
+pywinrm>=0.2.2  # from collection user
 awxkit  # from collection awx.awx
 packaging  # from collection azure.azcollection
 requests>=2.4.2  # from collection azure.azcollection,google.cloud,theforeman.foreman
